@@ -1,0 +1,10 @@
+{
+  "name": "banking-api-mock-server",
+  "version": "1.0.0",
+  "description": "Mocked Banking APIs for enterprise testing",
+  "scripts": {
+    "start:mocks": "docker-compose up -d",
+    "stop:mocks": "docker-compose down",
+    "test": "pytest --html=reports/test_report.html"
+  }
+}

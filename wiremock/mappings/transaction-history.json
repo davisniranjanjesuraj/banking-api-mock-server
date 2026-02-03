@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/api/v1/account/transactions"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "responses/transactions-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

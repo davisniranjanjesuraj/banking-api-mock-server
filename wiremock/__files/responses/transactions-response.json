@@ -1,0 +1,17 @@
+{
+  "accountId": "ACC12345",
+  "transactions": [
+    {
+      "id": "TXN001",
+      "type": "DEBIT",
+      "amount": 2500,
+      "description": "ATM Withdrawal"
+    },
+    {
+      "id": "TXN002",
+      "type": "CREDIT",
+      "amount": 50000,
+      "description": "Salary Credit"
+    }
+  ]
+}
