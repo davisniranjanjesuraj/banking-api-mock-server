@@ -82,6 +82,7 @@ Run tests and generate report
 ```
 pytest --html=reports/test_report.html
 ```
+---
 
 ### Test Report Output
 After execution, an HTML report will be generated at:
@@ -98,6 +99,8 @@ Execution time
 Assertion details
 
 This report serves as test evidence and submission output.
+
+---
 
 ### Enterprise Use Cases
 Mocking unavailable banking services
@@ -134,10 +137,13 @@ CI pipeline using GitHub Actions
 
 Dockerized version of WireMock
 
-### Author
+---
+
+## Author
 Davis Niranjan
 Software Test Engineer | Automation & API Testing
 GitHub: Add your GitHub profile link here
 
 ###License
 This project is intended for educational and portfolio purposes.
+
