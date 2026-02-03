@@ -141,9 +141,8 @@ Dockerized version of WireMock
 
 ## Author
 Davis Niranjan
-Software Test Engineer | Automation & API Testing
-GitHub: Add your GitHub profile link here
 
 ###License
 This project is intended for educational and portfolio purposes.
+
 
